@@ -6,7 +6,7 @@ This repository hosts the questionnaire file of the questionnaire used in the st
 (Working paper)
 
 ## Contents
-- `Questionnaire for multi-ride season ticket in HSR.pdf` —  PDF 
+- `Questionnaire for multi-ride season ticket in HSR.pdf` - PDF 
 
 ## Questionnaire Structure
 - **A. Screening Questions**
