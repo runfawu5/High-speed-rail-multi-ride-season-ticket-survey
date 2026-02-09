@@ -24,4 +24,4 @@ This questionnaire is licensed under **CC BY 4.0**.
 You are free to share and adapt the material, provided that appropriate credit is given.
 
 ## Contact
-For questions or collaboration, please contact: <runfawu5@gmail.com>
+For questions or collaboration, please contact: <runfawu5@gmail.com> or <wei.w.liu@polyu.edu.hk>.
